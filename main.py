@@ -1,4 +1,5 @@
 def privet():
-    print('Hi')
+	print('Hi')
+
 
 privet()
